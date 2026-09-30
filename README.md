@@ -1,8 +1,10 @@
 # AI-ML Assignments
 
-## Table of Contents
+This repository contains the implementations and output screenshots for the Artificial Intelligence and Machine Learning laboratory assignments.
 
-| Experiment | Topic | Outputs |
+## Experiments
+
+| Experiment | Topic | O/P SS |
 |---|---|---:|
 | Experiment 1 | BFS and DFS | 2 |
 | Experiment 2 | A* Algorithm | 1 |
@@ -16,18 +18,18 @@
 To implement Breadth First Search (BFS) and Depth First Search (DFS) algorithms.
 
 **Code:**  
-[BFS and DFS Code](Experiment-1/BFS-DFS.py)
+[BFS and DFS Code](./Experiment-1/BFS-DFS.py)
 
 <details>
 <summary>View Outputs (2 screenshots)</summary>
 
 ### BFS Output
 
-![BFS Output](Experiment-1/outputs/BFS-output.png)
+![BFS Output](./Experiment-1/outputs/BFS%20Output.png)
 
 ### DFS Output
 
-![DFS Output](Experiment-1/outputs/DFS-output.png)
+![DFS Output](./Experiment-1/outputs/DFS%20Output.png)
 
 </details>
 
@@ -39,14 +41,14 @@ To implement Breadth First Search (BFS) and Depth First Search (DFS) algorithms.
 To implement the A* search algorithm for finding an optimal path.
 
 **Code:**  
-[A* Algorithm Code](Experiment-2/A-Star.py)
+[A* Algorithm Code](./Experiment-2/A-Star.py)
 
 <details>
 <summary>View Output</summary>
 
 ### A* Output
 
-![A* Output](Experiment-2/outputs/A-star-output.png)
+![A* Output](./Experiment-2/outputs/A%20Star%20Output.png)
 
 </details>
 
@@ -58,17 +60,17 @@ To implement the A* search algorithm for finding an optimal path.
 To implement the Minimax algorithm for playing Tic-Tac-Toe.
 
 **Code:**  
-[Tic-Tac-Toe Code](Experiment-3/Tic-Tac-Toe.py)
+[Tic-Tac-Toe Code](./Experiment-3/Tic-Tac-Toe.py)
 
 <details>
 <summary>View Outputs (2 screenshots)</summary>
 
 ### Tic-Tac-Toe Output 1
 
-![Tic-Tac-Toe Output 1](Experiment-3/outputs/TTT-o1.png)
+![Tic-Tac-Toe Output 1](./Experiment-3/outputs/TTT%20O1.png)
 
 ### Tic-Tac-Toe Output 2
 
-![Tic-Tac-Toe Output 2](Experiment-3/outputs/TTT-o2.png)
+![Tic-Tac-Toe Output 2](./Experiment-3/outputs/TTT%20O2.png)
 
 </details>
