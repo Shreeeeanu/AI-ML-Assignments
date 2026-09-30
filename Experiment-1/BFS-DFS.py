@@ -1,4 +1,5 @@
 from collections import deque
+
 graph = {
     'A':['B','C'],
     'B':['D','E'],
@@ -8,6 +9,17 @@ graph = {
     'F':[],
     'G':[]
 }
+
+# ---- Show graph structure ----
+print("         A")
+print("        / \\")
+print("       B   C")
+print("      / \\   \\")
+print("     D   E   F")
+print("          \\")
+print("           G")
+print()
+
 def bfs(graph, start):
   visited=[]
   queue=deque()
@@ -40,6 +52,16 @@ graph = {
     'F': [],
     'G': []
 }
+
+# ---- Show graph structure ----
+print("         A")
+print("        / \\")
+print("       B   C")
+print("      / \\   \\")
+print("     D   E   F")
+print("          \\")
+print("           G")
+print()
 
 def dfs(graph, start):
     visited = []
